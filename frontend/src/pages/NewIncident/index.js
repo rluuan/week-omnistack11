@@ -40,7 +40,7 @@ export default function NewIncident() {
 			<div className="content">
 				<section>
 					<img src={logoImg} alt="Be the Hero" />
-					<h1>Cadaster new case.</h1>
+					<h1>Register new case.</h1>
 					<p>Write the detailed case to find a hero for solve it.</p>
 					
 					<Link className="back-link" to="/">
